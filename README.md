@@ -4,8 +4,6 @@ Geçmiş hava gözlemlerinden faydalanarak bir RNN modeli ile gelecek zaman dili
 
 ## Kullanılan Teknolojiler
 
-Aşağıdaki paketler notebook'tan tespit edilmiştir (en sık kullanılanlar):
-
 * tensorflow, statsmodels, sklearn, numpy, pandas, matplotlib, seaborn, warnings, scipy, 
 
 ## Genel olarak beklenen teknoloji yığını:
